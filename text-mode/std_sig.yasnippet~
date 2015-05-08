@@ -1,0 +1,19 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: Stardnard signature
+# key: std
+# binding: direct-keybinding
+# --
+
+---
+Mads Jensen, PhD
+Cognitive Neuroscience Research Unit
+&
+Center of Functionally Integrative Neuroscience
+
+Aarhus University
+Norrebrogade 44, Building 10 G, 4th floor
+DK-8000 Aarhus C.
+
+email: mads@cnru.dk
+phone: +45 2683 4500
+

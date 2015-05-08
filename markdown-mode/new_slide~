@@ -1,0 +1,15 @@
+# -*- mode: markdown; require-final-newline: nil -*-
+# name : New slide
+# key : ns
+# binding : direct-keybinding
+# --
+name: $1
+
+## $2 ##
+$0
+
+???
+
+
+---
+
